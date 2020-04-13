@@ -19,7 +19,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  neumorphic: any
+  flutter_neumorphic: ^1.0.4
   velocity_x: ^0.3.0
   flute_music_player:
 
