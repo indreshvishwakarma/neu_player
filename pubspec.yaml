@@ -21,6 +21,7 @@ dependencies:
     sdk: flutter
   neumorphic: any
   velocity_x: ^0.3.0
+  flute_music_player:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
